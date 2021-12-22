@@ -1,1 +1,1 @@
-# from_input_to_textfile
+inputをtextfileに書き込みたい
