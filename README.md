@@ -1,1 +1,2 @@
 inputをtextfileに書き込みたい
+い
