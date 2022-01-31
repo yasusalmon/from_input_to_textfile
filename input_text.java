@@ -41,7 +41,7 @@ class input_text{
       System.out.println("what do you want to add?");
       String sc_string = sc.next();
       sc_int--;
-      data[sc_int] = data[sc_int] + ","　+ sc_string;
+      data[sc_int] = data[sc_int] + "," + sc_string;
       System.out.println(data[sc_int]);
       FileWriter fw = new FileWriter(file);
       for(int i = 0;i<data_line;i++){
